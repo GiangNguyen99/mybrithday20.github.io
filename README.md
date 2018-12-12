@@ -1,0 +1,141 @@
+# mybrithday20.github.io
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Event invite</title>
+        <style>
+            .headline
+            {
+               color: red;
+               font-family: monospace;
+               text-align: center;
+            }
+            .img3{
+                float: right;
+                
+                z-index:3;
+            }
+            #img1 
+            {
+                margin: 10px;
+                position: absolute;
+                top:10px;
+                left:50px;
+                
+                z-index:2;
+            }
+            .time{
+                font-family:serif;
+                
+                background-color:orange;
+                font-style: italic;
+            }
+             .place{
+                 font-family:serif;
+                background-color:orange;
+                font-style: italic;
+            }
+            #welcome{
+                font-size:15px;
+            }
+            #note
+            {
+                font-size:15px;
+                color: pink;
+                background-color: rgb(77, 52, 68);
+            }
+            .body{
+                background-color:gold;
+                
+                padding: 10px;
+                border-top: 10px solid red;
+                border-left: 5px solid red;
+                border-bottom:10px solid red;
+                border-right: 5px solid red;
+                
+            }
+          
+            .body2{
+                background-color: rgb(20, 124, 156);
+                float:right;
+                width: 20%;
+                z-index:1;
+                position: absolute;
+                top:10px;
+                right:0.0000000000000000000000000000000001mm;
+                border: 10px solid red;
+            }
+            .linkfb{
+                font-size:20px;
+                text-decoration: none;
+            }
+            #word1{
+                color: brown;
+                font-size:30px;
+            }
+            .img2{
+                float:left;
+                width:30%;
+            
+                
+            }
+        </style>
+    </head>
+    <body>
+        <div class="body">
+        <h1 class="headline"><em>My brithday party!</em><hr></h1>
+        <img id="img1" src="https://www.google.com/search?q=ph%C3%B4ng+n%E1%BB%81n+sinh+nh%E1%BA%ADt&newwindow=1&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjqk5rrzpnfAhVDMt4KHVAWDJoQ_AUIDigB&biw=1536&bih=735#imgrc=TntnRQ6oAeUncM:" width="500"> 
+    <p id="welcome">
+        Welcome you come to G's home!!!
+    </p>
+        <table>
+            <thead>
+                <tr>
+                    <th class="time">Time:</th>
+                    <th>15/5/1999</th>
+                
+                </tr>
+            </thead>
+            <thead>
+                <tr>
+                    <th class="place">Place:</th>
+                    <th>G's home</th>
+                </tr>
+            </thead>
+        </table>
+        <p></p>
+        <h2>Some activities in my brithday party!</h2>
+        <h3>
+            
+        </h3>
+        <p>The details:</p>
+        <ul>
+            <li><i>Prize Pop</i><br>
+            <img class="img2" src="https://www.kasandbox.org/programming-images/cute/CharacterBoy.png">
+
+Before blowing up balloons, place a small piece of paper labeled with a number inside each one. Have the children pop their balloon by whatever means they can (sit on it, squeeze it, etc.). The number inside each balloon will correspond to a small prize.</li>
+            <li><i>Bridge Builders</i><br>
+
+Divide kids into groups and give them each an equal number of building blocks or Legos. Tell the teams they need to build a bridge strong enough to hold an egg (or a rubber ball, if you're not brave). When times up, they stop building and you'll test the structures.</li>
+            <li><i>Apples and Oranges<br></i>
+
+Form the kids into a circle. The group will pass an apple around the circle to the right while passing an orange to the left at the same time.<span id="word1"> However,</span> the children can't use their hands to pass the fruit; instead they must use their elbows, feet, chin, and the like to keep it moving.
+
+If they drop the fruit, they must close their eyes to keep playing. The game continues until only one person is left with his or her eyes open.</li>
+            <li><i>Jump the River<br></i>
+
+Set two pieces of rope on the ground to create a "river." Begin with the two pieces close together and have the children jump across. After each crossing, the river gets wider. If a child falls into the river, he's out. To make the game fun for older children, add challenges like jumping on one leg or leaping across with their eyes closed.</li>
+            <li><i>Personalize It!<br></i>
+
+Customize classic games to fit your party theme. 'Simon says' becomes a royal game when you replace Simon with Princess and let the girl in charge wear a crown. Swap the potato in Hot Potato for a topical object, like a toy car for an auto-themed fete.</li>
+
+        </ul>
+        <img class="img3" src="https://www.kasandbox.org/programming-images/cute/CharacterCatGirl.png">
+        <p id="note">I have one request: when you come to G's home please dress in navy clothes. </p></div>
+        <div class="body2"><h3>
+           <img src="https://www.facebook.com/photo.php?fbid=722076504655798&set=picfp.100005603649619&type=3&theater" width="100px">
+         <p>  <a class="linkfb" target="_blank" href="https://www.facebook.com/profile.php?id=100005603649619" > my facebook</a></p>
+        </h3></div>
+    </body>
+</html>
